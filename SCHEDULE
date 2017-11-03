@@ -1,14 +1,14 @@
-# T-H-E-G-R-A-P-H-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Schedule</title>
+  <title>Theodore Aretakis's Schedule 2017-2018</title>
   <style>
 		body 
 		{ 
 		background-color: CadetBlue;
 		font-family: Arial;
 		font-weight: 300;
+		Text-align:center;
 		}
 		
 		table
