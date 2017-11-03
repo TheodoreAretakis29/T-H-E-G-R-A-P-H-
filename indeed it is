@@ -6,31 +6,30 @@
   <title>Schedule</title>
 </head>
 <body>
-  <table>
+  <table border="1">
    <tr> 
-      <th>DAY 1</th>
-      <th>DAY 2</th>
-      <th>DAY 3</th>
-      <th>DAY 4</th>
-      <th>DAY 5</th>
-      <th>DAY 6</th>
-      <th>DAY 7</th>
-      <th>DAY 8</th>
-      <th>DAY A1</th>
-      <th>DAY A3</th>
-      <th>DAY A6</th>
+        <th>DAY 1</th>
+        <th>DAY 2</th>
+        <th>DAY 3</th>
+        <th>DAY 4</th>
+        <th>DAY 5</th>
+        <th>DAY 6</th>
+        <th>DAY 7</th>
+        <th>DAY 8</th>
+        <th>DAY A1</th>
+        <th>DAY A3</th>
+        <th>DAY A6</th>
     </tr>
     <tr> 
       <td>Physical Education</td>
       <td>Science</td>
       <td>Religion</td>
-      <td>History</td>
       <td>Physical Education</td>
       <td>History</td>
       <td>Computer Programming</td>
       <td>History</td>
       <td>TS Math</td> 
-      <td>    </td>
+      <td>(Late Start)</td>
       <td>French</td>
       <td>English</td>
    </tr>    
@@ -57,7 +56,7 @@
       <td>Religion</td>
       <td>Science<td>
       <td>French</td>
-      <td>      </td>
+      <td>(Mass or Assembly)</td>
       <td>French</td>
   </tr>
   <tr>
