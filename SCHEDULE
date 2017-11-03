@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Theodore Aretakis's Schedule 2017-2018</title>
+  <!-- the style element enables me to add CSS into my document without linking an entirely other file to my page! -->
   <style>
 		body 
 		{ 
